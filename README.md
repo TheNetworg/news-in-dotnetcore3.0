@@ -4,7 +4,11 @@ Přednáškový večer pro vývojáře
 * 17.1. 2019, 16:00 - 20:00 hod @ Microsoft Praha
 * Dotnet Talks, vol.2
 
-## Dema
+## Slides
+* Prezentace.pptx
+* Slides.pdf
+
+## Demos
 ### .NetStandard 2.1
 * [Span](Demos/NetStandard21/Span)
 * [SequenceReader](Demos/NetStandard21/SequenceReader)
